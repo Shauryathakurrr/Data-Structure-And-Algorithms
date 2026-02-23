@@ -11,7 +11,7 @@ public:
         next = NULL;
     }
 };
-
+                                        
 class LinkedList {
 public:
     Node* head;
